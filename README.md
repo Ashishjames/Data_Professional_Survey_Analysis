@@ -11,11 +11,9 @@ The following Data professsional activity is included in this dataset:
 * Difficulty level of breaking into Data roles & many more factors to gain insights into Data Profession.
 
 # Objective
-
 The objective of this Project using Power BI is to explore contemporary data professional interests and understand factors influencing them. Leveraging Power BI's robust data visualization, analysis, and predictive features, the project aims to uncover insights into the factors affecting data professionals, quantifying their impact. Through interactive dashboards, the analysis will provide a comprehensive view, enhancing decision-making processes in the data professional domain.
 
 # Inspiration
-
 * What is the demographic profile of today's data professionals, including age, gender, and geographic location?
 * Which skills are most commonly align with respective profession?
 * Which programming languages and tools are most commonly used by data professionals?
@@ -23,7 +21,7 @@ The objective of this Project using Power BI is to explore contemporary data pro
 * What is the current job market demand for data professionals in various regions?
   
 # Insights
-
+* Transformed & Processed raw survey data in PowerBI query editor for further analysis.
 * Average Age of Data Professionals is around 29-30.
 * Data Scientist is the Data Role with most Income.
 * The msot sought after programming language is Python followed by R & others like SQL.
