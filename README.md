@@ -1,5 +1,5 @@
 # Data_Professional_Survey_Analysis
-Unlocking Insights: A Data Professional's Journey through Power BI Analytics
+Unlocking Insights: A Data Professional's Survey Breakdown through Power BI Analytics.
 
 # Dataset
 The Dataset used for this analysis has been fetch from the survey held on different social media like Linkedin,Twitter,Instagram etc. It contain 600+ records of different respondants with 25+ columns.
