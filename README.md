@@ -31,5 +31,6 @@ The objective of this Project using Power BI is to explore contemporary data pro
 
 # Dashboard
 
+LINK : https://app.powerbi.com/view?r=eyJrIjoiNjM3NzQ4M2YtOTE2Ny00MGVhLWJjNTUtNTVmMmRmYjA4ZjNmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ![Dashboard_preview](Dashboard_preview.JPG)
